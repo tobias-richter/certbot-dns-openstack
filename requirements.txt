@@ -4,5 +4,5 @@
 
 pbr>=2.0 # Apache-2.0
 acme
-certbot[dev]
+certbot
 openstacksdk
