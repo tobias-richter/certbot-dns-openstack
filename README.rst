@@ -4,9 +4,12 @@ certbot-dns-openstack
 
 OpenStack DNS Authenticator plugin for Certbot
 
+# Please note, that is only a fork of the original repo from certbot-dns-openstack which adresses some issues in my setups.
+
 To Install:
 
-``pip install certbot-dns-openstack``
+1. clone this repo
+2. ``pip install -e path/to/cloned/certbot-dns-openstack``
 
 To run: 
 
